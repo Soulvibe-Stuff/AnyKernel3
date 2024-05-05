@@ -4,15 +4,15 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Project Paradox kernel by dreams @Soulvibe
+kernel.string=Paradox kernel by Dreams @soulvibe
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=lancelot 
-device.name2=lava
-device.name3=shiva
+device.name1=merlin
+device.name2=merlinx
+device.name3=
 device.name4=
 device.name5=
 supported.versions=
