@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Paradox kernel by Dreams @soulvibe
+kernel.string=Paradox kernel by Dreams @ soulvibe-team
 do.devicecheck=1
 do.modules=0
 do.systemless=1
