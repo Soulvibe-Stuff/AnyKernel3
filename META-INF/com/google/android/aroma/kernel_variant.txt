@@ -1,6 +1,6 @@
 <@center><b><#selectbg_g>ENGLISH</#></b>
 
-<@center><b><#selectbg_g>SkyWalker Kernel</#></b>
+<@center><b><#selectbg_g>Paradox Kernel</#></b>
 
 <b><#selectbg_g>About Kernel Variants :</#></b></@>
 

@@ -1,13 +1,12 @@
 <@center><b><#selectbg_g>ENGLISH</#></b>
 
-<@center><b><#selectbg_g>SkyWalker Kernel</#></b>
+<@center><b><#selectbg_g>Paradox Kernel</#></b>
 
-<b><#selectbg_g>Some Messages from me :</#></b></@>
+<b><#selectbg_g>Some Messages :</#></b></@>
 
 <@fill><q>
-SkyWalker Kernel is made with love by @ItsRyuujiX 
-which he's trying to give good experience for 
-any users :) .
+Paradox Kernel, made with love by the Soulvibe Team,
+aims to give every user an awesome experience. :) .
  
 U can manage this kernel what do u want 
 with Spectrum (if Supported) or other 
@@ -23,15 +22,13 @@ Thank You for choosing this Kernel !. </q></@>
 
 <@center><b><#selectbg_g>INDONESIA</#></b>
 
-<@center><b><#selectbg_g>Kernel SkyWalker</#></b>
+<@center><b><#selectbg_g>Kernel Paradox</#></b>
 
-<b><#selectbg_g>Sedikit Pesan dari gw :</#></b></@>
+<b><#selectbg_g>Sedikit Pesan :</#></b></@>
 
 <@fill><q>
-Kernel SkyWalker dibuat dengan cinta dari
-@ItsRyuujiX (ANJAY AWOKAWOKAWOK) , yang
-dimana dia mencoba untuk memberikan
-pengalaman terbaik bagi pengguna :) .
+Paradox Kernel, dikembangkan dengan penuh dedikasi oleh Soulvibe Team,
+dirancang untuk mengoptimalkan pengalaman pengguna perangkat Anda. :) .
  
 Agan dapat mengatur kernel dengan
 Spectrum (jika didukung) atau

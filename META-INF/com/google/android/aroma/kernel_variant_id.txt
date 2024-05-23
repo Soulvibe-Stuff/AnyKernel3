@@ -1,6 +1,6 @@
 <@center><b><#selectbg_g>INDONESIA</#></b>
 
-<@center><b><#selectbg_g>Kernel SkyWalker</#></b>
+<@center><b><#selectbg_g>Kernel Paradox</#></b>
 
 <b><#selectbg_g>Tentang Varian Kernel :</#></b></@>
 

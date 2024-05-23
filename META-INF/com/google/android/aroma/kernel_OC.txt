@@ -1,6 +1,6 @@
 <@center><b><#selectbg_g>ENGLISH</#></b>
 
-<@center><b><#selectbg_g>SkyWalker Kernel</#></b>
+<@center><b><#selectbg_g>SParadox Kernel</#></b>
 
 <b><#selectbg_g>About Overclocked Kernel :</#></b></@>
 
@@ -20,7 +20,7 @@ own risk :) .
 
 <@center><b><#selectbg_g>INDONESIA</#></b>
 
-<@center><b><#selectbg_g>Kernel SkyWalker</#></b>
+<@center><b><#selectbg_g>Kernel Paradox</#></b>
 
 <b><#selectbg_g>Tentang Kernel yang diOverclock :</#></b></@>
 

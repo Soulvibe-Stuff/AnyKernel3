@@ -6,12 +6,12 @@
 properties() { '
 kernel.string=ExampleKernel by osm0sis @ xda-developers
 kernel.for=KernelForDriver
-kernel.compiler=SDPG
+kernel.compiler=SVCLG
 kernel.made=user@soulvibe-team
 kernel.version=44xxx
 kernel.type=xxx
 message.word=blablabla
-build.date=2077
+build.date=2024
 build.type=stable
 do.devicecheck=1
 do.modules=0
